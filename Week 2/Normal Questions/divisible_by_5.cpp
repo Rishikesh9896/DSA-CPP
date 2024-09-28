@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int num;
-    cout<<"Enter the number ";
+    cout<<"Enter the number";
     cin>>num;
     if(num%5==0){
         cout<<"The number is divisible by 5 ";
