@@ -9,6 +9,6 @@ int main(){
     cout<<"Enter the time period ";
     cin>>time;
     float interest;
-    interest = (principal*rate*time) / 100;
+    interest = (principal*rate*time) / 100; 
     cout<<"The simple interest is "<<interest<<endl;
 }
