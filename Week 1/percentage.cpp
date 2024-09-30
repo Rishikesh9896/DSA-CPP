@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a,b,c,d,e;
+    float a,b,c,d,e;
     cout<<"Enter the marks in Maths:";
     cin>>a;
     cout<<"Enter the marks in Science:";
