@@ -10,5 +10,5 @@ int main(){
     cin>>time;
     float interest;
     interest = (principal*rate*time) / 100; 
-    cout<<"The simple interest is "<<interest<<endl;
+    cout<<"Simple interest is "<<interest<<endl;
 }
